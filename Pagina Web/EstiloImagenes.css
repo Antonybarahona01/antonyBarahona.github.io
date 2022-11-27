@@ -1,0 +1,46 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(1.2.png);
+    background-size: 170ch;
+}
+.TextoTitulo{
+    color: #FFBF00;
+    font-style: italic;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.NombreMio{
+    font-size: 25px;
+    font-style: italic;
+    color: #FFBF00;
+    text-align: center;
+    align-items: center;
+    margin-left: 600px;
+}
+.BotonInicio{
+    size: 20px;
+    color: #FFBF00;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-style: italic;
+    border-color: #FFBF00;
+    background-color: transparent;
+    font-size: 15px;
+    margin-top: 15px;
+    margin-left: 650px;
+}
+.TextoCamara{
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    margin-top: -350px;
+    margin-left: 600px;
+    color: #FFBF00;
+}
+.Camara{
+    border-radius: 80px;
+    margin-top: 50px;
+    margin-left: 130px;
+}
